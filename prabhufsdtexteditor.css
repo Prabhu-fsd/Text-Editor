@@ -1,0 +1,26 @@
+.editor {
+    width: 500px;
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .toolbar button {
+    margin: 0 5px;
+    border: none;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+  }
+  
+  .content {
+    height: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
